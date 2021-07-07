@@ -2,4 +2,4 @@
 ### Live Site: https://gerald2399.github.io/Beverage-Company-Website/
 
 ## Description
-This is a front-end beverage company website I created using HTML, CSS, and Javascript.
+This is a front-end website project I created of a fictional beverage company using HTML, CSS, and Javascript.
